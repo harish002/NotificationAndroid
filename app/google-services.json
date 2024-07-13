@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719466903455",
+    "project_id": "pushnotification-bdc47",
+    "storage_bucket": "pushnotification-bdc47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719466903455:android:51d93df5c2b449026e6faa",
+        "android_client_info": {
+          "package_name": "com.example.fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVL5dRpNi6Sub_Eq3uOJVAthl2PwDmVuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
